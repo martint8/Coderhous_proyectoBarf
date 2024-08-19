@@ -10,9 +10,7 @@ header ul{
     list-style-type: none;
     text-align: right;  
 }
-header img{
-    width: 30%;
-}
+
 #home{
     background-color: crimson;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
