@@ -1,9 +1,13 @@
 
 
 .header{
-    background-color: darkgreen;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: black;
+    background-image: url(./Image/Logo_Natural_Barf.png);
+    height: 40vh;
+    background-size: 60%;
+    background-position: 50%;
+    background-repeat: no-repeat;
     
 }
 header ul{
