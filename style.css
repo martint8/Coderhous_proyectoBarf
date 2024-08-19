@@ -1,0 +1,58 @@
+
+
+.header{
+    background-color: darkgreen;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+    
+}
+header ul{
+    list-style-type: none;
+    text-align: right;  
+}
+header img{
+    width: 30%;
+}
+#home{
+    background-color: crimson;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+}
+#home img{
+    width: 35%;
+    
+
+}
+#Alimentacion{
+    background-color: crimson;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+}
+.footer{
+    background-color: darkgreen;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+}
+footer ul{
+    list-style-type: none;
+}
+/*Pagina de Productos*/
+
+.productos{
+    background-color: crimson;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+}
+.productos img{
+    width: 40%;
+}
+.Nosotros{
+    background-color: crimson;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+}
+.Envios{
+    background-color: crimson;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+}
